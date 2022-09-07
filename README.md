@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Nikita
-#### I am third-year CS student at ITMO University and Java/Kotlin developer
+#### I am fourth-year CS student at ITMO University and Java/Kotlin developer
 
 Skills: Java / Kotlin / Spring (Boot, MVC, Data) / Swagger / SQL
 
 - 🔭 I’m currently working at [Tinkoff, Russia](tinkoff.ru/) 
-- 🌱 I’m currently learning Java, Python, Kafka and Evolutionary Algorithms 
+- 🌱 I’m currently learning Java, Kafka and High-loaded systems design
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [Telegram](https://t.me/nkorzh), [Gmail](mailto:n.korzhikov@gmail.com)
 - ⚡ Here is my [LaTeX CV](https://drive.google.com/file/d/1M5jjx0fc3uxBojcrTW5xUoRM_vkavjQK/view?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nikita-kozhukharov/)
